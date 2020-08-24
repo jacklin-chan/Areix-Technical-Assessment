@@ -1,6 +1,5 @@
 # Introduction
-
-- Adopted Flutter
+- The app adopted flutter.
 
 # Task 1
 Built a frontend page with filter which allow users to filter and see expenses.
