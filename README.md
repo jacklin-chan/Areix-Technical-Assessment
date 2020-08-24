@@ -3,7 +3,7 @@ Frontend part and programming part was performed only due to time limited.
 
 
 # Frontend Task
--  Flutter was adopted
+-  Flutter was adopted due to its popularity these days and the easy adoption on iOS and Android applications. Moreover, the auto-layout done by Flutter is better whereas Swift storyboard requires manual tune of the componenents placements.
 
 # Programming Tasks
 
